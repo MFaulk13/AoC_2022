@@ -9,6 +9,7 @@
   "author": "Mathias Faulkner",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mathjs": "^11.5.0"
   }
 }
